@@ -1,0 +1,2 @@
+安卓运行时权限说明:
+http://www.cnblogs.com/whoislcj/p/6064710.html
